@@ -2,6 +2,11 @@
 
 I'm a third year student at the University of Chicago majoring in Mathematics and Computer Science. I'm currently working part-time with the environmental science team at Argonne National Laboratory to develop high resolution real-time flood prediction models! 
 
+I love to:
+- Sail on Lake Washington
+- Cook for friends
+- Meditate and relax
+
 Below you will find the code for my previous projects involving ML.
 <!--
 **davdma/davdma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
