@@ -7,7 +7,9 @@ I love to:
 - Cook for friends
 - Meditate and relax
 
-Below you will find the code for my previous projects involving ML.
+Below you will find the code for my previous projects involving ML:
+* I worked on `TransferLearningArgonne` over the summer of 2022 building cheminformatic models for predicting how bioaccumulative a substance is (how likely a substance will build up in contact with organisms), an attempt to target the problematic PFAS.
+* `FloodSamplesArgonne` contain code for the data collection pipeline and water segmentation model that I have been recently working on at Argonne.
 <!--
 **davdma/davdma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
