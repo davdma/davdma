@@ -9,7 +9,7 @@ I love to:
 
 Below you will find the code for my previous projects involving ML:
 * I worked on `TransferLearningArgonne` over the summer of 2022 building models to predict how bioaccumulative a substance is given its chemical structure, and an exploratory attempt to target the problematic PFAS.
-* `FloodSamplesArgonne` contain code for the data collection pipeline and water segmentation model that I have been recently working on at Argonne.
+* `FloodSamplesArgonne` contains code for the Sentinel-2 satellite imagery data pipeline and water segmentation model that I have been recently working on at Argonne this year.
 <!--
 **davdma/davdma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
