@@ -3,7 +3,7 @@
 I'm a third year student at the University of Chicago double majoring in Mathematics and Computer Science. I'm currently working part-time with the environmental science team at Argonne National Laboratory to develop high resolution real-time flood mapping models! 
 
 I love to:
-- Explore restaurants in Seattle & Chicago
+- Run & hike around Washington
 - Cook for friends
 - Meditate and relax
 
