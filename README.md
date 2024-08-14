@@ -10,7 +10,7 @@ I love to:
 Below you will find the code for my previous projects involving ML:
 * I worked on `TransferLearningArgonne` over the summer of 2022 building models to predict how bioaccumulative a substance is given its chemical structure.
 * `floodmaps` contains code for the Sentinel-2 optical and Sentinel-1 synthetic aperture radar (SAR) satellite imagery data pipeline and water pixel detection model that I have been recently working on at Argonne this year.
-* `FredHutchKIs` is a cheminformatic deep learning project I worked on at the Gujral Lab of Fred Hutch for predicting kinase inhibitor profiles using transformer networks.
+* `FredHutchKIs` is a cheminformatic deep learning project I worked on at the Gujral Lab at Fred Hutch over the summer of 2024, aiming to predict kinase inhibitor polypharmacology using transformer networks.
 <!--
 **davdma/davdma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
