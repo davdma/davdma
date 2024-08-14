@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a rising senior at the University of Chicago double majoring in Mathematics and Computer Science. I'm currently working with the environmental science team at Argonne National Laboratory to develop high resolution real-time flood mapping models. I am also simultaneously working with the Gujral Lab at Fred Hutch for modeling therapeutic kinase inhibitor drug responses for human kinases.
+I'm a rising senior at the University of Chicago double majoring in Mathematics and Computer Science. I'm working with the environmental science team at Argonne National Laboratory to develop high resolution real-time flood mapping models. I am also working with the Gujral Lab at Fred Hutch for modeling therapeutic kinase inhibitor drug responses for human kinases.
 
 I love to:
 - Play with my cats
