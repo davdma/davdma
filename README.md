@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent graduate at the University of Chicago with a double major in Mathematics and Computer Science. I'm currently working full time with the environmental science team at Argonne National Laboratory to develop datasets and high resolution real-time flood mapping models for their Illinois region emergency management initiative.
+I'm a recent graduate at the University of Chicago with a double major in Mathematics and Computer Science. I'm currently working full time with the environmental science team at Argonne National Laboratory to develop custom datasets and high resolution real-time flood mapping models for their Illinois region emergency management initiative.
 
 I love to:
 - Play with my cats
